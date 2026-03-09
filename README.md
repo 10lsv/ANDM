@@ -126,5 +126,3 @@ Optimisations implémentées :
 
 - **Léon Becquet**
 - **Léo Sauvey**
-
-SUPINFO — 2025/2026
