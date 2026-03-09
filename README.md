@@ -124,5 +124,5 @@ Optimisations implémentées :
 
 ---
 
-- **Leon Becquet**
-- **Leo Sauvey**
+- **Léon Becquet**
+- **Léo Sauvey**
